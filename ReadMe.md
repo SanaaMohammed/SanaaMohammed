@@ -1,5 +1,19 @@
 # 💫 About Me:
-full stack engineer in (angualr and java ) Working on enterprise application development<br>🌱 Learning database engineering design, system design , and backend<br>💡 Interested in Software Architecture, Databases, and Backend Engineering<br>👯 Open to collaborating on Java and open-source projects and full stack , any backend tecnology<br>💬 Ask me about Java, SQL, MySQL, and Docker,orcale, redis,active mq<br>⚡ Fun fact: I love understanding how things work internally before using them.
+
+💻 Full Stack Engineer specializing in **Angular** and **Java**, with experience in building scalable enterprise applications.
+
+🔭 Currently working on enterprise application development and backend solutions.
+
+🌱 Continuously learning **Database Engineering**, **System Design**, and advanced **Backend Development** concepts.
+
+💡 Passionate about **Software Architecture**, **Databases**, **Distributed Systems**, and **Backend Engineering**.
+
+👯 Open to collaborating on **Java**, **Full Stack**, **Open Source**, and backend-related projects.
+
+💬 Ask me about **Java**, **Spring Boot**, **SQL**, **MySQL**, **Oracle**, **Redis**, **Docker**, **ActiveMQ**, and backend development best practices.
+
+⚡ Fun fact: I enjoy understanding how technologies work under the hood before using them.
+
 
 
 ## 🌐 Socials:
